@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Kai Bian | 卞凯"
-description              : "Undergraduate researcher at Harbin Institute of Technology, Shenzhen, working on efficient LLM agents, vocabulary optimization, and multi-agent systems."
+description              : "**Undergraduate researcher** at **Harbin Institute of Technology, Shenzhen**, working on **efficient LLM agents**, **vocabulary optimization**, and **multi-agent systems**."
 repository               : "Starry-159/starry-159.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -25,7 +25,7 @@ author:
   avatar           : "images/profile-kai-bian.png"
   bio              : "Undergraduate Researcher in LLM Agents and Efficient Inference"
   location         : "Shenzhen, China"
-  employer         : "Harbin Institute of Technology, Shenzhen"
+  employer         :
   pubmed           : 
   googlescholar    :  # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "motary59@gmail.com"
