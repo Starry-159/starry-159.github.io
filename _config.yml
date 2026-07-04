@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Kai Bian"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "Starry-159/kaibian.github.io"
+title                    : "Kai Bian | 卞凯"
+description              : "Undergraduate researcher at Harbin Institute of Technology, Shenzhen, working on efficient LLM agents, vocabulary optimization, and multi-agent systems."
+repository               : "Starry-159/starry-159.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -22,10 +22,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Kai Bian"
-  avatar           : "images/profile.png"
-  bio              : "Student"
-  location         : "Beijing, China"
-  employer         :
+  avatar           : "images/profile-kai-bian.png"
+  bio              : "Undergraduate Researcher in LLM Agents and Efficient Inference"
+  location         : "Shenzhen, China"
+  employer         : "Harbin Institute of Technology, Shenzhen"
   pubmed           : 
   googlescholar    :  # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "motary59@gmail.com"
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "Starry-159"
   google_plus      :
   keybase          :
   instagram        :
