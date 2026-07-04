@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an undergraduate student in Computer Science and Technology at Harbin Institute of Technology, Shenzhen (HITSZ). My current research focuses on **LLM vocabulary optimization**, **LLM agents**, **multi-agent systems**, **long-context inference**, and **efficient LLM inference**.
+I am an undergraduate student in Computer Science and Technology at Harbin Institute of Technology, Shenzhen (HITSZ), advised by [Prof. Xuebo Liu](https://sunbowliu.github.io/). My current research focuses on **LLM vocabulary optimization**, **LLM agents**, **multi-agent systems**, and **efficient LLM inference**.
 
 My recent work, **AgentVocab**, studies how vocabulary adaptation can reduce tokenization overhead in structured tool-calling scenarios for LLM agents, improving inference efficiency while preserving tool-calling performance.
 
@@ -35,7 +35,7 @@ My recent work, **AgentVocab**, studies how vocabulary adaptation can reduce tok
 
 - Introduces a structure-aware vocabulary adaptation framework for efficient LLM agents.
 - Derives specialized vocabulary entries from real tool-calling traces without task-specific schema engineering.
-- Reduces decoding latency relative to the vanilla baseline by **17.7%** on tau-bench and **19.5%** on tau^2-bench while preserving tool-calling performance.
+- Reduces decoding latency relative to the vanilla baseline by **17.7%** on τ-bench and **19.5%** on τ²-bench while preserving tool-calling performance.
 </div>
 </div>
 
@@ -43,7 +43,7 @@ My recent work, **AgentVocab**, studies how vocabulary adaptation can reduce tok
 
 # 💻 Research & Projects
 - **Research Assistant**, Research on LLM Vocabulary Optimization Mechanisms for Single-Agents, Harbin Institute of Technology, Shenzhen.  
-  *Sep. 2025 - Present*. Advisor: Prof. Xuebo Liu.
+  *Sep. 2025 - Present*. Advisor: [Prof. Xuebo Liu](https://sunbowliu.github.io/).
 
 - **Technical Leader**, Resource-Efficient and Trustworthy Text Analysis System Based on LLMs.  
   Built a four-stage LLM processing pipeline for large-scale financial text analysis, reducing processing time from 33.8 hours to 0.5 hours and achieving 99.74% accuracy with an anti-hallucination mechanism.
@@ -71,4 +71,3 @@ My recent work, **AgentVocab**, studies how vocabulary adaptation can reduce tok
 
 # 📄 CV
 - [Download CV (PDF)](files/CV_Kai_Bian_2026_0701.pdf)
-- [Download CV (DOCX)](files/CV_Kai_Bian_2026_0701.docx)

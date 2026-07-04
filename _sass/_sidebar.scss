@@ -108,6 +108,7 @@
   vertical-align: top;
   padding-left: 10px;
   min-width: 120px;
+  overflow-wrap: break-word;
   // padding-right: 25px;
   line-height: 1;
 
@@ -138,6 +139,7 @@
 
 .author__bio {
   margin: 0;
+  overflow-wrap: break-word;
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -188,6 +190,8 @@
   z-index: -1;
   box-shadow: 0 0 10px rgba(#000, 0.25);
   cursor: default;
+  max-width: 100%;
+  overflow-wrap: break-word;
 
   @include breakpoint($large) {
     display: block;
@@ -234,7 +238,8 @@
   }
 
   li {
-    white-space: nowrap;
+    white-space: normal;
+    overflow-wrap: break-word;
   }
 
   a {
@@ -246,6 +251,7 @@
     color: inherit;
     font-size: $type-size-5;
     text-decoration: none;
+    overflow-wrap: break-word;
 
     &:hover {
       text-decoration: underline;
